@@ -1,1 +1,1 @@
-# ands
+# ANDS records and related scripts
