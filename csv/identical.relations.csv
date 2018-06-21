@@ -1,4 +1,4 @@
-:START_ID,:END_ID,:TYPE
+from_key,to_uri,label
 researchgraph.org/ands/632302,researchgraph.org/ands/673955,knownAs
 researchgraph.org/ands/267237,researchgraph.org/ands/616510,knownAs
 researchgraph.org/ands/499300,researchgraph.org/ands/562162,knownAs
